@@ -9,7 +9,6 @@ It uses **Docker** and **NGINX** to serve a simple HTML page inside a container.
 - Custom HTML page running inside a Docker container
 - Powered by NGINX
 - Easy to build and run locally
-- 
 ## Run the container
 ```bash
 docker build -t my-website:latest.
